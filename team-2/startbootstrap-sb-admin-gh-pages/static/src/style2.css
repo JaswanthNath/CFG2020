@@ -1,0 +1,29 @@
+#titlenav {
+  font-size: 40px !important;
+  color: #ffffff !important;
+  text-align: center;
+  padding: 0px;
+  font-family: Georgia, 'Times New Roman', Times, serif !important;
+}
+
+#dropdownc {
+  background-color: #08223b;
+}
+
+.nav-item {
+  font-size: 20px;
+  text-align: justify;
+  padding: 10px;
+}
+
+.nav-item a {
+  color: #b0f3fe;
+}
+
+#navc {
+  background-color: #08223b;
+}
+
+#sidenavAccordion {
+  background-color: #08223b;
+}
